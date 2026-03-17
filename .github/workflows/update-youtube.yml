@@ -13,7 +13,19 @@ jobs:
       - uses: actions/checkout@v4
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UC7H1oWnyxNou0YxL1E69VSw
+          # ┌──────────────────────────────────────────────────────┐
+          # │  REPLACE THIS with your real channel ID              │
+          # │                                                      │
+          # │  HOW TO FIND IT:                                     │
+          # │  1. Go to youtube.com/@donaldraph in your browser    │
+          # │  2. Right-click → View Page Source                   │
+          # │  3. Ctrl+F search for: youtube.com/channel/          │
+          # │  4. Copy the UC... string that follows               │
+          # │                                                      │
+          # │  OR go to: youtube.com/account_advanced               │
+          # │  (must be logged in) — your channel ID is listed     │
+          # └──────────────────────────────────────────────────────┘
+          channel_id: UCxxxxxxxxxxxxxxxxxxxxxxxxx
           max_videos: 3
           card_width: 320
           border_radius: 5
