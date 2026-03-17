@@ -1,16 +1,16 @@
 ```
 $ whoami
 ```
-# Donald — Building toward SRE from the ground up
+# DonaldRaph — Building toward SRE from the ground up
 
 ```
-donald@localhost:~$ cat /etc/system-release
+donaldraph@localhost:~$ cat /etc/system-release
 Training: Cloud Infrastructure → SRE
 Status:   In progress
 Started:  From zero
 ```
 
-I'm not a cloud engineer yet. This GitHub is where I'm becoming one — every lab, every broken config, every debugging session, documented in real time.
+I'm not a cloud engineer yet. This GitHub is where I'm training to become one — every lab, every broken config, every debugging session, documented in real time.
 
 ---
 
@@ -42,7 +42,7 @@ I'm not a cloud engineer yet. This GitHub is where I'm becoming one — every la
  │ Debugging    │    │ Observability│    │ Incidents    │    │ Mentorship   │
  └──────┬───────┘    └──────────────┘    └──────────────┘    └──────────────┘
         │
-     [YOU ARE HERE]
+     [I AM HERE]
 ```
 
 ---
