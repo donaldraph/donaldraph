@@ -37,19 +37,19 @@ target:     Amazon · Netflix · Google
 I build infrastructure from Southeast Nigeria.
 Not Lagos. Not Abuja. But here, in Anambra.
 
-I'm a Cloud/SRE engineer on a deliberate path — learning deeply, building publicly, and earning my credentials one certification at a time. Right now I'm working through all five Kubernetes certifications on the road to **Kubestronaut**, and I won't stop there — **Golden Kubestronaut** is the destination.
+I'm a Cloud/SRE engineer on a deliberate path — learning deeply, building publicly, and earning my credentials one shipping at a time. Right now I'm working through all five Kubernetes certifications on the road to **Kubestronaut**, and I won't stop there — **Golden Kubestronaut** and beyond 
 
 But infrastructure is only half of what I care about.
 
 The other half is **people** — specifically, the builders right here in Southeast Nigeria who have the talent but not always the exposure, the community, or the roadmap. I see that gap every day and I refuse to just walk past it. That's why I founded **Day Zero** — a tech builders community rooted in the Southeast, built to change what's possible for engineers who are starting from nothing, the same way I am.
 
-I run workshops. I mentor. I create content on YouTube, Dev.to, and LinkedIn specifically to make Cloud and SRE concepts accessible to people in this region who've never had someone explain it in a way that feels close to home. I believe deeply that world-class engineers can be built anywhere — including right here, in Anambra.
+I run workshops. I mentor. I create content on YouTube, Dev.to, and LinkedIn specifically to make tech concepts accessible to people in this region who've never had someone explain it in a way that feels close to home. I believe deeply that world-class engineers can be built anywhere — including right here, in Anambra.
 
-As a **Claude Ambassador** (Anthropic) and **DeepLearning.AI Ambassador**, I also work to bring AI literacy and builder culture into spaces that don't usually see it — campuses, communities, and emerging tech scenes in Southeast Nigeria.
+As a **DeepLearning.AI Ambassador**, I also work to bring AI literacy and builder culture into spaces that don't usually see it — campuses, communities, and emerging tech scenes in Southeast Nigeria.
 
 The UK Global Talent Visa is my next coordinate. Amazon, Netflix, and Google are my long-game destinations. I'm earning every step in public — every repo, every cert, every article.
 
-> *You don't have to be from somewhere famous to build something great.*
+> *I don't have to be from somewhere famous to build something great.*
 
 ---
 
@@ -77,7 +77,7 @@ Phase 1  → Build the community foundation in Southeast Nigeria
 
 Phase 2  → Expand across Southeast Nigeria
            Bring Day Zero to Enugu, Imo, Abia, Cross River
-           Build a distributed network of SRE and Cloud engineers
+           Build a distributed network of builders/engineers
            from the Southeast who are globally competitive
 
 Phase 3  → Create the pipeline
@@ -89,7 +89,7 @@ Phase 3  → Create the pipeline
 Phase 4  → Give back at scale
            As I grow, Day Zero grows with me
            The builders I mentor today become the ones
-           who mentor the next cohort tomorrow
+           who mentor the next engineers tomorrow
 ```
 
 **My personal roadmap:**
@@ -103,7 +103,7 @@ Long-term → Day Zero as a self-sustaining, regionally significant
             tech institution that Southeast Nigeria is proud of
 ```
 
-> *From Nothing, To Everything. That's not just a tagline. It's a plan.*
+> *From Nothing, To Everything. This is not just a tagline. It's a plan carved out of pain*
 
 ---
 
