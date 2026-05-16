@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=donaldraph&fontSize=60&fontColor=0d1117&animation=fadeIn)
-
 <!-- ASCII NAME ART -->
 <div align="center">
 
