@@ -182,10 +182,10 @@ NOTE:       Potentially first Kubestronaut from Anambra / Southeast Nigeria 🇳
 
 | 🛠 Project | Stack | What it is |
 |---|---|---|
-| **NEXUS** | EKS · LLM · React | My Cognitive Simulation Engine — SRE training through AI-powered incident scenarios done with production realism |
+| **NEXUS** | EKS · LLM · React | My Cognitive Simulation Engine — Skill training through AI-powered incident scenarios done with real production scenario |
 | **ARES** | Amazon Nova · K8s · 11 microservices | AI SRE Platform I built for the Amazon Nova AI Hackathon — full tactical ops dashboard |
 | **PROMETHEUS** | Python · Polygon · WebSocket | My autonomous trading bot for Polymarket's CLOB — 20 markets subscribed, live paper trading |
-| **Day Zero Platform** | React · AWS · CloudFront | My community platform — dark Afro-futuristic aesthetic, AWS-native, mobile-first for Nigerian performance |
+| **Day Zero Platform** | React · AWS · CloudFront | My community Infrastructure — AWS-native, mobile-first for Nigerian performance |
 | **Raph's Orbit** | FastAPI · Docker · EC2 | My LinkedIn/Twitter monitoring bot with Telegram alerts, deployed on AWS EC2 |
 
 ---
