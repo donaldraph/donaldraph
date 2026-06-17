@@ -130,7 +130,7 @@ $ contribution-graph --animate   # pods scheduling across the grid
 
 <!-- WIRED UP IN CLAUDE CODE: GitHub Action writes the animated SVG to a branch, then it renders here -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/donaldraph/donaldraph/output/contribution.svg" alt="contribution animation (set up via GitHub Action)" />
+  <img src="https://raw.githubusercontent.com/donaldraph/donaldraph/output/snake.svg" alt="contribution snake animation (set up via GitHub Action)" />
 </p>
 
 <p align="center">
