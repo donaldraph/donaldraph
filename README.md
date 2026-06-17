@@ -1,282 +1,161 @@
-<!-- ASCII NAME ART -->
-<div align="center">
+<!-- Banner: commit assets/banner.svg (PNG fallback also in assets/) -->
+<p align="center">
+  <img src="assets/banner.svg" alt="Donald Raph — Platform & Reliability Engineering" width="100%" />
+</p>
 
-```
-██████╗  ██████╗ ███╗   ██╗ █████╗ ██╗     ██████╗
-██╔══██╗██╔═══██╗████╗  ██║██╔══██╗██║     ██╔══██╗
-██║  ██║██║   ██║██╔██╗ ██║███████║██║     ██║  ██║
-██║  ██║██║   ██║██║╚██╗██║██╔══██║██║     ██║  ██║
-██████╔╝╚██████╔╝██║ ╚████║██║  ██║███████╗██████╔╝
-╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=Cloud+%2F+SRE+Engineer;Kubestronaut+%E2%86%92+Golden+Kubestronaut+%E2%86%92+FAANG;Founder+%40+Day+Zero+%7C+Anambra%2C+Southeast+Nigeria;Claude+Ambassador+%7C+DeepLearning.AI+Ambassador;Building+in+Public+%E2%80%94+From+Nothing%2C+To+Everything" alt="Typing SVG" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/donaldraph"><img src="https://komarev.com/ghpvc/?username=donaldraph&label=visitors&style=flat-square&color=22d3ee" /></a>
+  <a href="https://github.com/donaldraph?tab=followers"><img src="https://img.shields.io/github/followers/donaldraph?label=followers&style=flat-square&color=34d399" /></a>
+  <img src="https://img.shields.io/badge/region-Anambra,%20NG-f59e0b?style=flat-square" />
+</p>
 
 ---
 
-## `$ whoami`
-
-```yaml
-name:       Donald Raphael
-handle:     donaldraph
-role:       Cloud / SRE Engineer
-location:   Anambra State, Southeast Nigeria 🇳🇬
-community:  Founder @ Day Zero — Southeast Nigeria's tech builders collective
-ambassador: Claude Ambassador (Anthropic) · DeepLearning.AI Ambassador
-visa:       UK Global Talent Visa · Digital Technology · Exceptional Promise
-mission:    "From Nothing, To Everything"
-target:     Amazon · Netflix · Google
 ```
+$ whoami
+```
+
+I build infrastructure from Anambra, in southeast Nigeria. Not Lagos, not Abuja — here.
+
+I run **Day Zero**, a builders' community for engineers in the southeast who have the talent but not the exposure, and I lead the first **AWS Student Builder Group** at my university. Most of what I know, I learned by breaking things in production and writing down what happened.
+
+The rest of this page is the system I'm running: what's shipped, what's deploying, and what's still in the queue.
+
+> From nothing, to everything.
 
 ---
 
-## `$ cat /etc/about.me`
-
-I build infrastructure from Southeast Nigeria.
-Not Lagos. Not Abuja. But here, in Anambra.
-
-I'm a Cloud/SRE engineer on a deliberate path — learning deeply, building publicly, and earning my credentials one shipping at a time. Right now I'm working through all five Kubernetes certifications on the road to **Kubestronaut**, and I won't stop there — **Golden Kubestronaut** and beyond 
-
-But infrastructure is only half of what I care about.
-
-The other half is **people** — specifically, the builders right here in Southeast Nigeria who have the talent but not always the exposure, the community, or the roadmap. I see that gap every day and I refuse to just walk past it. That's why I founded **Day Zero** — a tech builders community rooted in the Southeast, built to change what's possible for engineers who are starting from nothing, the same way I am.
-
-I run workshops. I mentor. I create content on YouTube, Dev.to, and LinkedIn specifically to make tech concepts accessible to people in this region who've never had someone explain it in a way that feels close to home. I believe deeply that world-class engineers can be built anywhere — including right here, in Anambra.
-
-As a **DeepLearning.AI Ambassador**, I also work to bring AI literacy and builder culture into spaces that don't usually see it — campuses, communities, and emerging tech scenes in Southeast Nigeria.
-
-The UK Global Talent Visa is my next coordinate. Amazon, Netflix, and Google are my long-game destinations. I'm earning every step in public — every repo, every cert, every article.
-
-> *I don't have to be from somewhere famous to build something great.*
-
----
-
-## `$ cat /etc/mission.conf`
-
 ```
-I build from Southeast Nigeria.
-Not Lagos. Not Abuja. But here, in Anambra.
+$ status --all
 ```
 
-**Why Day Zero exists:**
-
-Southeast Nigeria has builders. Real ones. People who can architect systems, ship products, and lead teams — but who are often invisible to the global tech ecosystem because they didn't start in the right city or go to the right school.
-
-Day Zero is my answer to that.
-
-It's not just a community. It's a launchpad — designed to take builders from zero to employable, from local to global, from unknown to undeniable. I run events, build learning infrastructure, create public content, and establish partnerships with programmes across Nigeria and Africa to make this real.
-
-**The long-term vision:**
+| Role | State | Where |
+|:--|:--|:--|
+| AWS Student Builder Group Leader | `active` | UNIZIK · founding year |
+| Claude Ambassador (Anthropic) | `active` | — |
+| DeepLearning.AI Ambassador | `active` | — |
+| Linux Foundation LiFT Scholar | `granted` | 2026 cohort |
+| Day Zero — Founder | `running` | Southeast Nigeria |
 
 ```
-Phase 1  → Build the community foundation in Southeast Nigeria
-           Establish Day Zero as the go-to builders' hub in Anambra
-           Run consistent events, mentorship, and learning tracks
-
-Phase 2  → Expand across Southeast Nigeria
-           Bring Day Zero to Enugu, Imo, Abia, Cross River
-           Build a distributed network of builders/engineers
-           from the Southeast who are globally competitive
-
-Phase 3  → Create the pipeline
-           Partner with international programmes and companies
-           so that talent from the Southeast has direct pathways
-           to global opportunities — not by leaving who they are,
-           but by being exactly that, on a global stage
-
-Phase 4  → Give back at scale
-           As I grow, Day Zero grows with me
-           The builders I mentor today become the ones
-           who mentor the next engineers tomorrow
-```
-
-**My personal roadmap:**
-
-```
-Now       → Cloud/SRE engineering · All 5 Kubernetes certs · Build in public
-12 months → UK Global Talent Visa (Digital Technology · Exceptional Promise)
-24 months → Senior SRE / Platform Engineer at a top-tier company
-36–48 mo  → FAANG-competitive SRE role · Amazon · Netflix · Google
-Long-term → Day Zero as a self-sustaining, regionally significant
-            tech institution that Southeast Nigeria is proud of
-```
-
-> *From Nothing, To Everything. This is not just a tagline. It's a plan carved out of pain*
-
----
-
-## `$ kubectl get certifications --all-namespaces`
-
-```
-NAMESPACE       CERT                              STATUS        TRACK
-──────────────────────────────────────────────────────────────────────────────
-foundations     GitHub Foundations                ✅ EARNED     GitHub
-cloud           AWS Cloud Practitioner Essential  ✅ EARNED     AWS
-database        MongoDB Atlas Administrator       ✅ EARNED     MongoDB
-──────────────────────────────────────────────────────────────────────────────
-kubernetes      CKA  (Certified K8s Admin)        🔄 IN PROG    Kubestronaut
-kubernetes      CKS  (Certified K8s Security)     🔄 IN PROG    Kubestronaut
-kubernetes      CKAD (Certified K8s App Dev)      🔄 IN PROG    Kubestronaut
-kubernetes      KCNA (K8s & Cloud Native Assoc.)  🔄 IN PROG    Kubestronaut
-kubernetes      KCSA (K8s Security Assoc.)        🔄 IN PROG    Kubestronaut
-──────────────────────────────────────────────────────────────────────────────
-MILESTONE:  Kubestronaut (all 5 complete) → Golden Kubestronaut
-NOTE:       Potentially first Kubestronaut from Anambra / Southeast Nigeria 🇳🇬
-```
-
-<div align="center">
-
-| 🏆 Milestone | Status |
-|---|---|
-| GitHub Foundations | ✅ Earned |
-| AWS Cloud Practitioner Essential | ✅ Earned |
-| MongoDB Atlas Administrator | ✅ Earned |
-| Kubestronaut — all 5 CNCF certs | 🔄 Actively in progress |
-| Golden Kubestronaut | 🎯 The final destination |
-
-</div>
-
----
-
-## `$ cat /proc/current-stack`
-
-<div align="center">
-
-**☁️ Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**⚙️ Languages & Dev**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-**📡 Observability & SRE**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-**🗄️ Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
----
-
-## `$ ls -la ~/projects`
-
-| 🛠 Project | Stack | What it is |
-|---|---|---|
-| **NEXUS** | EKS · LLM · React | My Cognitive Simulation Engine — Skill training through AI-powered incident scenarios done with real production scenario |
-| **ARES** | Amazon Nova · K8s · 11 microservices | AI SRE Platform I built for the Amazon Nova AI Hackathon — full tactical ops dashboard |
-| **PROMETHEUS** | Python · Polygon · WebSocket | My autonomous trading bot for Polymarket's CLOB — 20 markets subscribed, live paper trading |
-| **Day Zero Platform** | React · AWS · CloudFront | My community Infrastructure — AWS-native, mobile-first for Nigerian performance |
-| **Raph's Orbit** | FastAPI · Docker · EC2 | My LinkedIn/Twitter monitoring bot with Telegram alerts, deployed on AWS EC2 |
-
----
-
-## `$ tail -f /var/log/roles.log`
-
-```
-[DAY ZERO]       Founder · Southeast Nigeria tech builders collective
-[ANTHROPIC]      Claude Ambassador
-[DEEPLEARNING]   DeepLearning.AI Ambassador
-[CNCF]           All 5 Kubernetes certs in progress → Kubestronaut → Golden Kubestronaut
-[GTV]            UK Global Talent Visa · Digital Technology · Exceptional Promise
+FOCUS: platform engineering → SRE     UPTIME: building in public, no shortcuts
 ```
 
 ---
 
-## `$ cat /etc/writing.conf`
+```
+$ cd ~/certs && ./rollout.sh --watch
+```
 
-I write about Cloud, SRE, Kubernetes, community building, and building from Southeast Nigeria.
+Nine vouchers, one fixed order. The stack reads like a platform-engineering rollout: code → CI/CD → cloud → IaC → data → orchestration. Status is live.
 
-📝 [Dev.to → donaldraph](https://dev.to/donaldraph)
-📺 [YouTube → donaldraph](https://youtube.com/@donaldraph)
-🔗 [LinkedIn → donaldraph](https://linkedin.com/in/donaldraph)
-
----
-
-## `⚡ GitHub Analytics`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=donaldraph&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaldraph&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=donaldraph&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-[![Donald's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donaldraph&bg_color=0d1117&color=00FF41&line=00FF41&point=FF6B35&area=true&hide_border=true)](https://github.com/donaldraph)
-
-</div>
-
----
-
-## `$ ping --connect`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-donaldraph-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/donaldraph)
-[![Dev.to](https://img.shields.io/badge/Dev.to-donaldraph-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/donaldraph)
-[![YouTube](https://img.shields.io/badge/YouTube-donaldraph-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@donaldraph)
-[![Twitter/X](https://img.shields.io/badge/X-donaldraph-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/donaldraph)
-
-![Profile Views](https://komarev.com/ghpvc/?username=donaldraph&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## `$ neofetch`
+| # | Certification | Status | Target |
+|:--|:--|:--|:--|
+| 01 | GitHub Copilot | `🟢 deployed` | passed Jun 16, 2026 |
+| 02 | GitHub Actions | `🟡 deploying` | Jun 21, 2026 |
+| 03 | AWS Cloud Practitioner | `⚪ queued` | Jul 2026 |
+| 04 | AWS Solutions Architect Associate | `⚪ queued` | Aug 2026 |
+| 05 | HashiCorp Terraform Associate | `⚪ queued` | Aug 2026 |
+| 06 | MongoDB Atlas Administrator | `⚪ queued` | Sep 2026 |
+| 07 | Certified Kubernetes Administrator (CKA) | `⚪ queued` | Nov 2026 |
+| 08 | Certified Kubernetes Security Specialist (CKS) | `⚪ queued` | Feb 2027 |
+| 09 | Certified Kubernetes App Developer (CKAD) | `⚪ queued` | Apr 2027 |
 
 ```
-  ░░░░░░░░░░░░░░░░░░░     donaldraph @ day-zero
-  ░░██████████████░░░     ─────────────────────────────────────────
-  ░░██░░░░░░░░░░██░░░     Role:       Cloud / SRE Engineer
-  ░░██░░░░░░░░░░██░░░     Origin:     Anambra, Southeast Nigeria 🇳🇬
-  ░░██░░░████░░░██░░░     Community:  Day Zero (Founder)
-  ░░██░░░████░░░██░░░     Earned:     GitHub Foundations · AWS CCP · MongoDB Atlas Admin
-  ░░██░░░░░░░░░░██░░░     In Prog:    CKA · CKS · CKAD · KCNA · KCSA
-  ░░██████████████░░░     Target:     Kubestronaut → Golden Kubestronaut
-  ░░░░░░░░░░░░░░░░░░░     Visa:       UK Global Talent (Exceptional Promise)
-                          Endgame:    Amazon · Netflix · Google
-                          RAM:        Enough to ship
-                          Uptime:     Building since Day Zero
+CKA + CKS + CKAD  ──▶  Kubestronaut
 ```
 
 ---
 
-<div align="center">
+```
+$ systemctl list-units --type=service
+```
 
-```bash
+| Service | State | What it is |
+|:--|:--|:--|
+| **nexus.service** | `running` | Incident-scenario trainer for SRE skills — AI-generated production failures on EKS · *EKS · LLM · React* |
+| **ares.service** | `running` | AI SRE platform built for the Amazon Nova hackathon — ops dashboard over 11 microservices · *Nova · K8s* |
+| **prometheus.service** | `running` | Autonomous trading bot on Polymarket's CLOB — live paper trading across 20 markets · *Python · WebSocket* |
+| **dayzero.service** | `running` | Community platform — AWS-native, mobile-first for Nigerian networks · *React · AWS · CloudFront* |
+| **orbit.service** | `running` | LinkedIn/Twitter monitor with Telegram alerts on EC2 · *FastAPI · Docker · EC2* |
+
+---
+
+```
+~/unizik $ cat MISSION
+```
+
+I'm the founding Group Leader of the **AWS Student Builder Group at UNIZIK** — the first chapter at the university, part of a global program. I'm building it from zero: a real community where students ship something they can deploy, not just sit through slides.
+
+The members platform is live at **[aws.unizikbuilders.tech](https://aws.unizikbuilders.tech)** — serverless, built on AWS, runs the whole join flow.
+
+```
+GOAL  → grow a chapter that actually builds, ending the founding year with a flagship Student Community Day.
+TAG   → just show up and build.  #ShowUpAndBuild
+```
+
+*(Full playbook stays off GitHub. You get the headline, not the master plan.)*
+
+---
+
+```
+$ queue --pending
+```
+
+Applications in flight. Targeting, not yet earned — I'll move each to `active` when it lands.
+
+```
+GitHub Campus Expert       applying
+Outreachy                  targeting next cohort
+CNCF Ambassador            targeting next round
+AWS Community Builder      targeting next intake
+```
+
+---
+
+```
+$ cat /proc/stack
+```
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,linux" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,bash,go,react,typescript" /><br/>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,githubactions,mongodb,postgres" />
+</p>
+
+---
+
+```
+$ contribution-graph --animate   # pods scheduling across the grid
+```
+
+<!-- WIRED UP IN CLAUDE CODE: GitHub Action writes the animated SVG to a branch, then it renders here -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donaldraph/donaldraph/output/contribution.svg" alt="contribution animation (set up via GitHub Action)" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=donaldraph&show_icons=true&hide_border=true&bg_color=0d1320&title_color=22d3ee&icon_color=34d399&text_color=7d8aa3&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=donaldraph&hide_border=true&background=0d1320&stroke=16203a&ring=22d3ee&fire=f59e0b&currStreakLabel=34d399&sideLabels=7d8aa3&dates=7d8aa3" />
+</p>
+
+---
+
+```
+$ journalctl -u writing --follow
+```
+
+I write and record the work as I do it — debugging logs, decisions I had to make, things that broke and why. No hype.
+
+<p>
+  <a href="https://dev.to/donaldraph"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://youtube.com/@donaldraph"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/donaldraph"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+```
 $ uptime
-Cloud/SRE Engineer · Community Founder · Building in public from Southeast Nigeria.
-My Day Zero is the origin. Everything else is the destination.
+Started from zero. Building in public from southeast Nigeria. Still shipping.
 ```
-
-*⭐ Star repos that resonate. Connect if you're building from Africa.*
-
-</div>
