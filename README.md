@@ -1,6 +1,5 @@
-<!-- Banner: commit assets/banner.svg (PNG fallback also in assets/) -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Donald Raph — Platform & Reliability Engineering" width="100%" />
+  <img src="banner.png" alt="Donald Raph — Platform & Reliability Engineering" width="100%" />
 </p>
 
 <p align="center">
