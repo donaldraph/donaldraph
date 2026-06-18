@@ -31,8 +31,8 @@ $ status --all
 | Role | State | Where |
 |:--|:--|:--|
 | AWS Student Builder Group Leader | `active` | UNIZIK · founding year |
-| Claude Ambassador (Anthropic) | `active` | — |
-| DeepLearning.AI Ambassador | `active` | — |
+| Claude Ambassador (Anthropic) | `active` | Southeast |
+| DeepLearning.AI Ambassador | `active` | Southeast |
 | Linux Foundation LiFT Scholar | `granted` | 2026 cohort |
 | Day Zero — Founder | `running` | Southeast Nigeria |
 
