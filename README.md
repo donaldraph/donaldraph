@@ -14,9 +14,9 @@
 $ whoami
 ```
 
-I build infrastructure from Anambra, in southeast Nigeria. Not Lagos, not Abuja — here.
+I build infrastructure from Anambra, in southeast Nigeria. Not Lagos, not Abuja, but here — the part of the country the tech conversation forgot. I'm building from here to represent the people it overlooked.
 
-I run **Day Zero**, a builders' community for engineers in the southeast who have the talent but not the exposure, and I lead the first **AWS Student Builder Group** at my university. Most of what I know, I learned by breaking things in production and writing down what happened.
+I run **Day Zero**, a builders' community for engineers in the southeast who have the talent but not the exposure, and I lead the first **AWS Student Builder Group** at my university. Most of what I know, I learned by leading communities and breaking things in production, then writing down what happened.
 
 The rest of this page is the system I'm running: what's shipped, what's deploying, and what's still in the queue.
 
