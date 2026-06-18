@@ -135,7 +135,7 @@ $ contribution-graph --animate   # pods scheduling across the grid
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=donaldraph&show_icons=true&hide_border=true&bg_color=0d1320&title_color=22d3ee&icon_color=34d399&text_color=7d8aa3&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=donaldraph&hide_border=true&background=0d1320&stroke=16203a&ring=22d3ee&fire=f59e0b&currStreakLabel=34d399&sideLabels=7d8aa3&dates=7d8aa3" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=donaldraph&hide_border=true&background=0d1320&stroke=16203a&ring=22d3ee&fire=f59e0b&currStreakNum=e9edf5&currStreakLabel=34d399&sideNums=e9edf5&sideLabels=7d8aa3&dates=7d8aa3" />
 </p>
 
 ---
