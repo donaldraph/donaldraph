@@ -50,7 +50,7 @@ Nine vouchers, one fixed order. The stack reads like a platform-engineering roll
 
 | # | Certification | Status | Target |
 |:--|:--|:--|:--|
-| 01 | [GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-gb/DonaldAnyamba-7081/4733422B31DD5396?sharingId=E6284BE9ADB4BD06) | `🟢 deployed` | passed Jun 16, 2026 |
+| 01 | [GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-gb/DonaldAnyamba-7081/4733422B31DD5396?sharingId=E6284BE9ADB4BD06) | `🟢 deployed` | certified Jun 16, 2026 |
 | 02 | GitHub Actions | `🟡 deploying` | Jun 21, 2026 |
 | 03 | AWS Cloud Practitioner | `⚪ queued` | Jul 2026 |
 | 04 | AWS Solutions Architect Associate | `⚪ queued` | Aug 2026 |
