@@ -46,7 +46,7 @@ FOCUS: platform engineering → SRE     UPTIME: building in public, no shortcuts
 $ cd ~/certs && ./rollout.sh --watch
 ```
 
-Nine certs, in a fixed order. The sequence is basically how a platform gets built: code → CI/CD → cloud → IaC → data → orchestration. 
+Nine certs, in a fixed order. The sequence is basically how a platform gets built: code → CI/CD → cloud → IaC → data → orchestration. Statuses below are live.
 
 | # | Certification | Status | Target |
 |:--|:--|:--|:--|
