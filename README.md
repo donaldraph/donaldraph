@@ -46,7 +46,7 @@ FOCUS: platform engineering → SRE     UPTIME: building in public, no shortcuts
 $ cd ~/certs && ./rollout.sh --watch
 ```
 
-Nine vouchers, one fixed order. The stack reads like a platform-engineering rollout: code → CI/CD → cloud → IaC → data → orchestration. Status is live.
+Nine certs, in fixed order. The sequence is basically how a platform gets built: code → CI/CD → cloud → IaC → data → orchestration. 
 
 | # | Certification | Status | Target |
 |:--|:--|:--|:--|
