@@ -98,8 +98,9 @@ TAG   → just show up and build.  #ShowUpAndBuild
 ---
 
 ```
-<!--
+
 $ queue --pending
+
 
 Applications in flight. Targeting, not yet earned —
 I'll move each to `active` when it lands.
@@ -108,7 +109,7 @@ GitHub Campus Expert      applying
 Outreachy                 targeting next cohort
 CNCF Ambassador           targeting next round
 AWS Community Builder     targeting next intake
--->
+
 ---
 
 ```
