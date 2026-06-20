@@ -100,7 +100,7 @@ TAG   → just show up and build.  #ShowUpAndBuild
 ```
 
 $ queue --pending
-
+```
 
 Applications in flight. Targeting, not yet earned —
 I'll move each to `active` when it lands.
