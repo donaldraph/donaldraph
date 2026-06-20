@@ -98,6 +98,7 @@ TAG   → just show up and build.  #ShowUpAndBuild
 ---
 
 ```
+<!--
 $ queue --pending
 ```
 
@@ -109,7 +110,7 @@ Outreachy                  targeting next cohort
 CNCF Ambassador            targeting next round
 AWS Community Builder      targeting next intake
 ```
-
+-->
 ---
 
 ```
