@@ -76,7 +76,7 @@ $ systemctl list-units --type=service
 | **ares.project** | `running` | AI SRE platform built for the Amazon Nova hackathon — ops dashboard over 11 microservices · *Nova · K8s* |
 | **prometheus.project** | `running` | Autonomous trading bot on Polymarket's CLOB — live paper trading across 20 markets · *Python · WebSocket* |
 | **dayzero.project** | `running` | Community platform — AWS-native, mobile-first for Nigerian networks · *React · AWS · CloudFront* |
-| **orbit.service** | `running` | LinkedIn/Twitter monitor with Telegram alerts on EC2 · *FastAPI · Docker · EC2* |
+| **orbit.project** | `running` | LinkedIn/Twitter monitor with Telegram alerts on EC2 · *FastAPI · Docker · EC2* |
 
 ---
 
