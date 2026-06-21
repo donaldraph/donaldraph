@@ -73,7 +73,7 @@ $ systemctl list-units --type=service
 | Service | State | What it is |
 |:--|:--|:--|
 | **nexus.project** | `running` | Incident-scenario trainer for SRE skills — AI-generated production failures on EKS · *EKS · LLM · React* |
-| **ares.service** | `running` | AI SRE platform built for the Amazon Nova hackathon — ops dashboard over 11 microservices · *Nova · K8s* |
+| **ares.project** | `running` | AI SRE platform built for the Amazon Nova hackathon — ops dashboard over 11 microservices · *Nova · K8s* |
 | **prometheus.service** | `running` | Autonomous trading bot on Polymarket's CLOB — live paper trading across 20 markets · *Python · WebSocket* |
 | **dayzero.service** | `running` | Community platform — AWS-native, mobile-first for Nigerian networks · *React · AWS · CloudFront* |
 | **orbit.service** | `running` | LinkedIn/Twitter monitor with Telegram alerts on EC2 · *FastAPI · Docker · EC2* |
