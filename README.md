@@ -58,7 +58,7 @@ Nine certs, in a fixed order. The sequence is basically how a platform gets buil
 | 0110 | MongoDB Atlas Administrator | `⚪ queued` | Sep 2026 |
 | 0111 | Certified Kubernetes Administrator (CKA) | `⚪ queued` | Nov 2026 |
 | 1000 | Certified Kubernetes Security Specialist (CKS) | `⚪ queued` | Feb 2027 |
-| 09 | Certified Kubernetes App Developer (CKAD) | `⚪ queued` | Apr 2027 |
+| 1001 | Certified Kubernetes App Developer (CKAD) | `⚪ queued` | Apr 2027 |
 
 ```
 CKA + CKS + CKAD  ──▶  Kubestronaut
