@@ -48,7 +48,7 @@ $ cd ~/certs && ./rollout.sh --watch
 
 Nine certs, in a fixed order. The sequence is basically how a platform gets built: code → CI/CD → cloud → IaC → data → orchestration. Statuses below are live.
 
-| # | Certification | Status | Target |
+| Bin | Certification | Status | Target |
 |:--|:--|:--|:--|
 | 0001 | [GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-gb/DonaldAnyamba-7081/4733422B31DD5396?sharingId=E6284BE9ADB4BD06) | `🟢 certified` | Jun 15, 2026 |
 | 0010 | GitHub Actions | `🟡 pending` | Jun 27, 2026 |
