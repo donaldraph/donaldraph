@@ -54,7 +54,7 @@ Nine certs, in a fixed order. The sequence is basically how a platform gets buil
 | 0010 | GitHub Actions | `🟡 pending` | Jun 27, 2026 |
 | 0011 | AWS Cloud Practitioner | `⚪ queued` | Jul 2026 |
 | 0100 | AWS Solutions Architect Associate | `⚪ queued` | Aug 2026 |
-| 05 | HashiCorp Terraform Associate | `⚪ queued` | Aug 2026 |
+| 0101 | HashiCorp Terraform Associate | `⚪ queued` | Aug 2026 |
 | 06 | MongoDB Atlas Administrator | `⚪ queued` | Sep 2026 |
 | 07 | Certified Kubernetes Administrator (CKA) | `⚪ queued` | Nov 2026 |
 | 08 | Certified Kubernetes Security Specialist (CKS) | `⚪ queued` | Feb 2027 |
