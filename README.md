@@ -53,7 +53,7 @@ Nine certs, in a fixed order. The sequence is basically how a platform gets buil
 | 0001 | [GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-gb/DonaldAnyamba-7081/4733422B31DD5396?sharingId=E6284BE9ADB4BD06) | `🟢 certified` | Jun 15, 2026 |
 | 0010 | GitHub Actions | `🟡 pending` | Jun 27, 2026 |
 | 0011 | AWS Cloud Practitioner | `⚪ queued` | Jul 2026 |
-| 04 | AWS Solutions Architect Associate | `⚪ queued` | Aug 2026 |
+| 0100 | AWS Solutions Architect Associate | `⚪ queued` | Aug 2026 |
 | 05 | HashiCorp Terraform Associate | `⚪ queued` | Aug 2026 |
 | 06 | MongoDB Atlas Administrator | `⚪ queued` | Sep 2026 |
 | 07 | Certified Kubernetes Administrator (CKA) | `⚪ queued` | Nov 2026 |
