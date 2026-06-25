@@ -11,7 +11,7 @@
 ---
 
 ```
-$ whoamii
+$ whoami
 ```
 
 I build infrastructure from Anambra, in southeast Nigeria. Not Lagos, not Abuja, but here — the part of the country the tech conversation forgot. I'm building from here to represent the people it overlooked.
