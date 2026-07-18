@@ -1,0 +1,31 @@
+name: Generate Metrics Card
+
+on:
+  schedule:
+    # every 12 hours, same cadence as the snake
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+# NOTE: intentionally NOT triggered on push. output_action commits the SVG
+# back to main; if a PAT (METRICS_TOKEN) is used, a push trigger would
+# re-fire this workflow on its own commit and loop.
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Render stats card
+        uses: lowlighter/metrics@latest
+        with:
+          # Falls back to the built-in GITHUB_TOKEN so this runs out of the box
+          # (public stats). Add a repo secret named METRICS_TOKEN (a classic PAT
+          # with scopes: repo, read:org, read:user) to include private-repo
+          # commit counts, then it upgrades automatically — no other change.
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: donaldraph
+          filename: github-metrics.svg
+          base: "header, activity, community, repositories"
+          config_timezone: Africa/Lagos
+          committer_message: "chore: refresh profile metrics card"
